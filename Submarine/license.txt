@@ -1,0 +1,11 @@
+Model Information:
+* title:	KoreaNavy -Son Won il- Class(Type214) Submarine
+* source:	https://sketchfab.com/3d-models/koreanavy-son-won-il-classtype214-submarine-d89f6a3cfc2d46ae9464b6527ac1221f
+* author:	Artech (https://sketchfab.com/ArtechStudio)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "KoreaNavy -Son Won il- Class(Type214) Submarine" (https://sketchfab.com/3d-models/koreanavy-son-won-il-classtype214-submarine-d89f6a3cfc2d46ae9464b6527ac1221f) by Artech (https://sketchfab.com/ArtechStudio) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
